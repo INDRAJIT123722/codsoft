@@ -1,0 +1,1 @@
+This project is a part of my CodSoft Internship (July Batch). The task involved creating a Simple <br>Calculator that can perform basic arithmetic operations with a clean and user-friendly interface.
