@@ -3,7 +3,7 @@ built using c++.it alows users to manage their daily
 tasks directly through the terminal
 
 ## FEATURES
-1.ADD NEW TASK
-2.VIEW ALL TASK
-3.DELETE TASK
+1.ADD NEW TASK<br>
+2.VIEW ALL TASK<br>
+3.DELETE TASK<br>
 4.MARK TASKS AS COMPLETED
