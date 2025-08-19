@@ -30,5 +30,5 @@ int main(){
        
     } while (guess!=random);
     cout<<"Thanks for playing: "<<endl;
-    cout<<"Developed by Indrajit barui: "; 
+    cout<<"Developed by Akash munain: "; 
 }
